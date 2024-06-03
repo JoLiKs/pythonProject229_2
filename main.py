@@ -14,5 +14,3 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 #mm
 # Изменения из Pycharm
-
-# Изменения из GiHub
