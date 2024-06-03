@@ -15,3 +15,4 @@ if __name__ == '__main__':
 #mm
 # Изменения из Pycharm
 
+# Изменения из GiHub
